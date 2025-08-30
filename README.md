@@ -1,1 +1,1 @@
-# scripture-mood-maatch
+# scripture-mood-match
